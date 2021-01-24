@@ -13,6 +13,7 @@
 		EE7A416525BB37C200B1864B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE7A416325BB37C200B1864B /* Main.storyboard */; };
 		EE7A416725BB37C200B1864B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE7A416625BB37C200B1864B /* Assets.xcassets */; };
 		EE7A416A25BB37C200B1864B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE7A416825BB37C200B1864B /* LaunchScreen.storyboard */; };
+		EE7A417325BB4A1300B1864B /* EditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE7A417225BB4A1300B1864B /* EditViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EE7A416625BB37C200B1864B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE7A416925BB37C200B1864B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE7A416B25BB37C200B1864B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE7A417225BB4A1300B1864B /* EditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				EE7A415F25BB37C200B1864B /* SceneDelegate.swift */,
 				EE7A416125BB37C200B1864B /* ViewController.swift */,
 				EE7A416325BB37C200B1864B /* Main.storyboard */,
+				EE7A417225BB4A1300B1864B /* EditViewController.swift */,
 				EE7A416625BB37C200B1864B /* Assets.xcassets */,
 				EE7A416825BB37C200B1864B /* LaunchScreen.storyboard */,
 				EE7A416B25BB37C200B1864B /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE7A417325BB4A1300B1864B /* EditViewController.swift in Sources */,
 				EE7A416225BB37C200B1864B /* ViewController.swift in Sources */,
 				EE7A415E25BB37C200B1864B /* AppDelegate.swift in Sources */,
 				EE7A416025BB37C200B1864B /* SceneDelegate.swift in Sources */,
